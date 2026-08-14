@@ -318,7 +318,7 @@ A correlation matrix was explored using numerical representations of selected cu
 
 ## Monthly Churn Trend
 
-![Monthly Churn](images/monthly_churn.png)
+![Monthly Churn](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/monthly_churn.jpeg)
 
 ## Churn by State
 
