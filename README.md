@@ -314,7 +314,7 @@ A correlation matrix was explored using numerical representations of selected cu
 
 ## Churn by Subscription Plan
 
-![Churn by Plan](images/churn_by_plan.jpeg)
+![Churn by Plan](images/churn_by_plan.png)
 
 ## Monthly Churn Trend
 
