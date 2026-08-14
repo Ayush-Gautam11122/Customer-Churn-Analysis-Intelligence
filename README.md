@@ -330,7 +330,7 @@ A correlation matrix was explored using numerical representations of selected cu
 
 ## Face Plot Grid
 
-![Face Plot Grid](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/correlation_heatmap.jpeg)
+![Face Plot Grid](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/faceplot_grid.jpeg)
 
 # 🔍 Business Insights
 
