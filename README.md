@@ -310,6 +310,24 @@ A correlation matrix was explored using numerical representations of selected cu
 
 ---
 
+# 📊 Data Visualizations
+
+## Churn by Subscription Plan
+
+![Churn by Plan](images/churn_by_plan.jpeg)
+
+## Monthly Churn Trend
+
+![Monthly Churn](images/monthly_churn.png)
+
+## Churn by State
+
+![Churn by State](images/churn_by_state.png)
+
+## Correlation Analysis
+
+![Correlation Heatmap](images/correlation_heatmap.png)
+
 # 🔍 Business Insights
 
 ## 1. Basic Plan Has the Highest Churn
