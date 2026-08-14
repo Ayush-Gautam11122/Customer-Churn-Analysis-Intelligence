@@ -326,7 +326,7 @@ A correlation matrix was explored using numerical representations of selected cu
 
 ## Correlation Analysis
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/correlation_heatmap.jpeg)
 
 # 🔍 Business Insights
 
