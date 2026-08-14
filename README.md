@@ -322,7 +322,7 @@ A correlation matrix was explored using numerical representations of selected cu
 
 ## Churn by State
 
-![Churn by State](images/churn_by_state.png)
+![Churn by State](https://github.com/Ayush-Gautam11122/Customer-Churn-Analysis-Intelligence/blob/main/churn_by_states.jpeg)
 
 ## Correlation Analysis
 
